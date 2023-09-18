@@ -5,6 +5,7 @@ Here is the list of all of my vanilla javascript projects. Projects are ordered 
 
 | Project Title | Live Demo | Description |
 | :---         |     :---:      |          :--- |
+| [Tic Tac Toe](https://github.com/justFae00/TicTacToe)   | [link](https://justfae00.github.io/TicTacToe/)     | game logic    |
 | [Pomodoro Timer](https://github.com/justFae00/Pomodoro)   | [link](https://justfae00.github.io/Pomodoro/)     | timer, sound effect, animation    |
 | [Matching Cards Game](https://github.com/justFae00/MatchingCardsGame)     | [link](https://justfae00.github.io/MatchingCardsGame/)       | sound effect, level up, flip animation      |
 | [Exercise App](https://github.com/justFae00/ExerciseApp)     | [link](https://justfae00.github.io/ExerciseApp/)       | API, search with filter, absolute positioning      |
