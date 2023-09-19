@@ -1,6 +1,6 @@
 # VanillaJS Projects
 
-Here is the list of all of my vanilla javascript projects. Projects are ordered by the most recent repo to the oldest. You can click on the project title to open its repo. Each project has a live demo available. Abilities worth mentioning are written in the description column. 
+Here is the list of all of my vanilla javascript projects. Projects are ordered by the most recent repo to the oldest. You can click on the project title to open its repo. Each project has a live demo available. Abilities or challenges worth mentioning are written in the description column. 
 
 
 | Project Title | Live Demo | Description |
